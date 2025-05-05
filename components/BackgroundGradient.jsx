@@ -1,4 +1,5 @@
-import { cn } from "./";
+import { cn } from "../utils/cn"; // or adjust path as needed
+
 import React from "react";
 import { motion } from "framer-motion";
 
